@@ -1,0 +1,17 @@
+ #EXTM3U
+ #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="CANAIS ABERTO",SBT
+https://r3---sn-uxaxh5g-bpbe6.googlevideo.com/videoplayback?expire=1603514528&ei=P1yTX536OIXExQT8lr7wAg&ip=2804%3Ad41%3Aaf28%3Abe00%3A6cba%3A32ce%3A9fb5%3Adcbb&id=ABVQXgr2LW4.2&itag=160&aitags=133%2C134%2C135%2C136%2C137%2C160&source=yt_live_broadcast&requiressl=yes&mh=mT&mm=44%2C29&mn=sn-uxaxh5g-bpbe6%2Csn-gpv7eney&ms=lva%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=40&gcr=br&initcwndbps=538750&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&gir=yes&mt=1603492819&fvip=3&keepalive=yes&c=WEB_EMBEDDED_PLAYER&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cgir&sig=AOq0QJ8wRQIhAIUqdjzaN34ETGvlhrIcguLcupMawnuL8Ni2biBmfV1cAiBh3YkIWMvz4lr39lmBKpwY7YcF9qH5zgu846XyrbGO5Q%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgM8vqrG5sLksf6Gd3XAFwwQ6Dr9W3MWymerlzeahJwEsCIHCwj8t82aUKcqEw5Cq-xwlHouqzdspL9hxu07CUxo3I
+ #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAIS ABERTOS",REDE RECORD
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_240_av-p.m3u8?sd=10&rebase=on
+ #EXTINF:-1 tvg-logo="https://www.dafont.com/forum/attach/orig/6/3/636263.png?1" group-title="CANAIS ABERTOS",REDETV
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_240_av-p.m3u8?sd=10&rebase=on
+ #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="CANAS ABERTOS",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1306334164.m3u8
+ #EXTINF:-1 tvg-logo="https://tunein.com/radio/Rede-Minas-s128243/" group-title="CANAIS ABERTOS",REDE MINAS
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/media-ucp7kfzge_b1703936_2649.ts
+ #EXTINF:-1 tvg-logo="https://www.gratispng.com/png-5w2pqu/download.html" group-title="CANAIS ABERTOS",RECORD NWES
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w18516739.m3u8
+
+   #EXTINF:-1 tvg-logo="https://www.gratispng.com/png-bia7ty/" group-title="CANAIS DOCUMENTARIOS",ANIMAL PLANET
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/animalplanet_e114c448_7e3e867c03a41764fd8debceca51d405587dd711/playlist.m3u8
+
